@@ -5,21 +5,21 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m voma Nwana, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
 
 ## About Me 🎓 
 
 
 -- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+I hold Msc degree in Clinical Biochemistry with a focus on data analytics. 
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+📊 Proficient in Excel, Tableau Power Bi, SQL, and good in python data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
+1. **Customer Segmentation** Producing visualisation table to help make informed decision on market expansion, predcition and forcast . Using scatter plot to explore relashion between variables and Bar charts to compare quantities across catergoryies and line grgh to tract changes overtime.Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized coo using scatter plots and bar charts to compare trens whin a category.
    
 2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
@@ -69,9 +69,9 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
+* 🌍  I'm based in Birmingham
+* ✉️  You can contact me at [email address](nvoma@hotmail.co.uk)
+* 🧠  I'm learning Python,R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
 ### Skills
